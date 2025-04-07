@@ -6,3 +6,7 @@
 ###### This is an `<h6>` header.
 
 ![Jennifer Lawrence](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg/250px-Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
